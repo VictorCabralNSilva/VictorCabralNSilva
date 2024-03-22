@@ -1,7 +1,7 @@
 👋 Hi, I'm @VictorCabralNSilva!
-👀 I'm interested in evolving professionally and delving into studies in both backend and frontend development.
-🌱 Currently, I'm learning programming logic and JavaScript.
-💞️ I'm looking to collaborate in any way possible.
+👀 I am a front end dev, with knowledge of HTML, CSS, JS and PHP. I'm evolving in PHYTON, JAVA and much more.
+🌱  I'm evolving in PHYTON, JAVA, JavaScript, React and much more.
+💞️ I'm looking to enter the job market in the IT area, adding all my skills, efforts, and competitiveness that I have in me.
 📫 How to reach me: Email: victorcabralnascimentosilva@gmail.com, LinkedIn: www.linkedin.com/in/victor-cabral-b38310274.
 😄 Pronouns: He/him.
 ⚡ Fun fact: I am hardworking and competitive with myself (sometimes I push myself too hard)
